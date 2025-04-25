@@ -12,36 +12,29 @@ The project objective of this HR Analytics Dashboard is to analyze employee attr
 - Has the attrition rate changed over time or remained consistent?
 
 👥 Demographics & Age
-Which age group shows the highest attrition, and why might that be the case?
-
-Does average age correlate with years of service or job level?
+- Which age group shows the highest attrition, and why might that be the case?
+- Does average age correlate with years of service or job level?
 
 👨‍🔬 Job Role Specifics
-Which job roles experience the highest attrition and what common patterns are seen?
-
-Are any job roles showing unusually low attrition? Why?
+- Which job roles experience the highest attrition and what common patterns are seen?
+- Are any job roles showing unusually low attrition? Why?
 
 💰 Compensation Analysis
-How does attrition correlate with salary slabs? Are employees in lower salary brackets leaving more often?
-
-Is there a critical salary threshold below which attrition spikes?
+- How does attrition correlate with salary slabs? Are employees in lower salary brackets leaving more often?
+- Is there a critical salary threshold below which attrition spikes?
 
 🎓 Educational Background
-Which education backgrounds are more prone to attrition?
-
-Can training or career development be tailored to reduce attrition in those segments?
+- Which education backgrounds are more prone to attrition?
+- Can training or career development be tailored to reduce attrition in those segments?
 
 👨‍👩‍👧‍👦 Gender Trends
-Is there a significant difference in attrition between male and female employees?
-
-Do certain job roles have gender-skewed attrition?
+- Is there a significant difference in attrition between male and female employees?
+- Do certain job roles have gender-skewed attrition?
 
 📈 Tenure-Based Insights
-At what point in their tenure are employees most likely to leave?
-
-What measures can be taken to improve employee engagement in the first 2 years?
+- At what point in their tenure are employees most likely to leave?
+- What measures can be taken to improve employee engagement in the first 2 years?
 
 🧩 Strategic & Predictive
-What are the key drivers of attrition based on this data?
-
-Can we predict future attrition trends and proactively address them?
+- What are the key drivers of attrition based on this data?
+- Can we predict future attrition trends and proactively address them?
