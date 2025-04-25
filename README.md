@@ -93,3 +93,6 @@ The project objective of this HR Analytics Dashboard is to analyze employee attr
 - Use clear visuals and key takeaways
 - Provide actionable insights
 
+## Dashboard
+
+![HR Analytics ]()
