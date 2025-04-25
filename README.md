@@ -95,4 +95,4 @@ The project objective of this HR Analytics Dashboard is to analyze employee attr
 
 ## Dashboard
 
-![HR Analytics ]()
+![HR Analytics ](https://github.com/Nikhil-29-11/Task-4-Data-Analysis-Dasboard-Power-BI/blob/main/%7BAA86DD0C-994A-4F35-A934-DD12363C7018%7D.png)
