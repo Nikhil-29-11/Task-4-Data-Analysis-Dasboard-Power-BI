@@ -38,3 +38,58 @@ The project objective of this HR Analytics Dashboard is to analyze employee attr
 🧩 Strategic & Predictive
 - What are the key drivers of attrition based on this data?
 - Can we predict future attrition trends and proactively address them?
+
+## 🔄 Process 
+🔧 1. Define the Objective
+- Goal: Understand and reduce employee attrition.
+- Key Questions: Who is leaving, why, and what can be done about it?
+
+🗂️ 2. Data Collection
+- Source: Internal HR systems (e.g., uploaded CSV: HR_Analytics.csv)
+- Data Points:
+- Employee ID, Age, Gender
+- Department, Job Role
+- Salary, Education
+- Years at company
+- Attrition status (Yes/No)
+
+🧹 3. Data Cleaning & Preparation
+- Remove duplicates or irrelevant columns
+- Handle missing values
+- Convert categorical data (e.g., Gender, Job Role) into usable formats
+- Normalize/standardize numerical features if needed
+
+📊 4. Exploratory Data Analysis (EDA)
+- Use visualizations to:
+- Identify attrition trends by:
+- Age group
+- Salary slab
+- Gender
+- Education
+- Job role
+- Tenure
+- Highlight high-risk groups (e.g., young professionals, underpaid roles)
+
+📈 5. Dashboard Design & Visualization
+- Create an interactive dashboard (like the one you shared) showing:
+- Overall attrition stats
+- Pie charts for education & gender
+- Bar charts for age, job role, salary
+- Line charts for attrition over tenure
+
+🤖 6. Advanced Analysis (Optional)
+- Predictive modeling (e.g., logistic regression or decision trees to predict attrition)
+- Correlation analysis
+- Sentiment analysis from surveys (if available)
+
+✅ 7. Recommendations & Action Plan
+- Tailored training or mentorship programs
+- Compensation benchmarking
+- Career development strategies
+- Targeted engagement efforts for high-risk groups
+
+📢 8. Reporting & Communication
+- Present findings to stakeholders
+- Use clear visuals and key takeaways
+- Provide actionable insights
+
